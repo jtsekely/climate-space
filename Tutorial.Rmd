@@ -2,7 +2,9 @@
 title: "Tutorial"
 author: "Jill Sekely"
 date: "2025-03-07"
-output: html_document
+output: 
+  html_document: 
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
